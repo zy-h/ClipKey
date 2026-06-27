@@ -6,6 +6,8 @@ It lets you open recent copied text and images with a shortcut, search your hist
 **ClipKey 是一个轻量、快速、简洁、免费的原生 macOS 剪贴板历史工具。**  
 它可以用快捷键调出最近复制过的文本和图片，支持搜索、图片预览，并能把历史记录快速粘贴回当前软件。
 
+**Download / 下载**: [ClipKey-0.1.0.dmg](https://github.com/zy-h/ClipKey/releases/download/v0.1.0/ClipKey-0.1.0.dmg)
+
 **Language / 语言**: [English](#english) · [中文](#中文)
 
 ![ClipKey clipboard history in English](docs/screenshots/en-history.png)
@@ -70,6 +72,12 @@ Command + Shift + V
 ```
 
 ### Build
+
+Download the DMG from the latest release:
+
+[https://github.com/zy-h/ClipKey/releases](https://github.com/zy-h/ClipKey/releases)
+
+Or build from source:
 
 Requirements:
 
@@ -170,6 +178,12 @@ Command + Shift + V
 ```
 
 ### 构建
+
+可以直接下载 DMG 安装包：
+
+[https://github.com/zy-h/ClipKey/releases](https://github.com/zy-h/ClipKey/releases)
+
+也可以从源码构建：
 
 需要：
 

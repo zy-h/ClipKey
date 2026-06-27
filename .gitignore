@@ -2,6 +2,8 @@
 .swiftpm/
 .DS_Store
 DerivedData/
+dist/
+dmg-root/
 *.xcuserdata/
 *.xcworkspace/xcuserdata/
 *.xcodeproj/xcuserdata/
